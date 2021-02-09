@@ -6,8 +6,8 @@ import (
 	"strconv"
 	"testing"
 
-	"github.com/zu1k/proxypool/config"
-	"github.com/zu1k/proxypool/getter"
+	"github.com/zhangweiii/proxypool/config"
+	"github.com/zhangweiii/proxypool/getter"
 )
 
 func TestConfigFile(t *testing.T) {

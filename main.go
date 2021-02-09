@@ -7,9 +7,9 @@ import (
 	_ "net/http/pprof"
 
 	_ "github.com/mkevac/debugcharts"
-	"github.com/zu1k/proxypool/api"
-	"github.com/zu1k/proxypool/app"
-	"github.com/zu1k/proxypool/proxy"
+	"github.com/zhangweiii/proxypool/api"
+	"github.com/zhangweiii/proxypool/app"
+	"github.com/zhangweiii/proxypool/proxy"
 )
 
 var (

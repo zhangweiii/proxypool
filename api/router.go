@@ -5,8 +5,8 @@ import (
 
 	"github.com/gin-gonic/gin"
 	_ "github.com/heroku/x/hmetrics/onload"
-	"github.com/zu1k/proxypool/app/cache"
-	"github.com/zu1k/proxypool/provider"
+	"github.com/zhangweiii/proxypool/app/cache"
+	"github.com/zhangweiii/proxypool/provider"
 )
 
 var router *gin.Engine
